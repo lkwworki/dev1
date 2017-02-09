@@ -1,0 +1,18 @@
+{
+  "name": "@lkwuser/lkwproject1",
+  "version": "1.0.0",
+  "description": "lkw project 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "lkw"
+  ],
+  "author": "lai kwok",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {}
+}
